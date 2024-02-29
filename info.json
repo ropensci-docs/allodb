@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4207f8616411233f954779789c688433250e651b",
+    "author": "Mauro Lepore <maurolepore@gmail.com>",
+    "time": "2021-10-21 02:47:44",
+    "files": 20,
+    "merge": false,
+    "message": "Polish documentation (#224)\n\n* Polish the description of return values\r\n\r\n* Style R/data.R\r\n\r\n* Style R/est_params.R\r\n\r\n* Style some more\r\n\r\n* Style some more\r\n\r\n* Style some more\r\n\r\n* Polish punctuation\r\n\r\n* Replace pkg{allodb} with *allodb*\r\n\r\n* Replace 'f()' with [f()]\r\n\r\n* Replace 'f()' with [f()]\r\n\r\n* Replace 'f()' with [f()]\r\n\r\n* Replace 'f()' with [f()]\r\n\r\n* Replace 'f()' with [f()]\r\n\r\n* Redocument"
+  },
+  "repo": "https://github.com/ropensci/allodb",
+  "pkg": "allodb"
+}
